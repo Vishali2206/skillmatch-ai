@@ -1,0 +1,16 @@
+student_id,company,job_role,match_percentage,cgpa_eligible,missing_skills
+S001,Tech Mahindra,Software Developer,96.15,True,javascript
+S001,Deloitte,Technology Analyst (template),86.88,True,"python, data_analytics, communication"
+S001,HCLTech,Graduate Engineer Trainee,85.45,True,"java, dsa"
+S001,LTIMindtree,Graduate Engineer Trainee,85.45,True,"java, dsa"
+S001,Cognizant,Programmer Analyst,85.38,True,"python, java"
+S001,Accenture,Associate Software Engineer,80.62,True,"python, java, dsa"
+S001,Capgemini,Analyst / Software Engineer,78.33,True,"java, dsa"
+S001,IBM,Data Engineer (entry-level template),78.24,True,"python, sql, data_analytics"
+S001,Infosys,Systems Engineer,77.5,True,"java, dsa"
+S001,Wipro,Project Engineer,77.5,True,"java, dsa"
+S001,TCS,Assistant System Engineer,75.88,True,"python, java, dsa"
+S001,Amazon,Cloud/Software Engineer (entry-level template),71.58,True,"python, java, dsa, problem_solving"
+S001,Persistent Systems,Software Engineer,66.25,True,"java, python, dsa, problem_solving"
+S001,Google,Software Engineer (entry-level template),64.44,True,"python, java, dsa, problem_solving"
+S001,Microsoft,Software Engineer (entry-level template),64.44,True,"python, java, dsa, problem_solving"

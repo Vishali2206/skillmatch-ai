@@ -1,0 +1,170 @@
+student_id,cluster,recommended_company,recommended_role,match_percentage,eligibility_note,missing_skill,improvement_action
+S001,0,Tech Mahindra,Software Developer,96.15,Meets sample CGPA threshold,javascript,Learn JavaScript and DOM manipulation.
+S003,2,TCS,Assistant System Engineer,99.41,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S006,1,Deloitte,Technology Analyst (template),98.75,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S008,3,Deloitte,Technology Analyst (template),97.5,Meets sample CGPA threshold,sql,Practice SQL queries and database management.
+S009,0,Tech Mahindra,Software Developer,96.15,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S010,1,IBM,Data Engineer (entry-level template),95.29,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S012,3,IBM,Data Engineer (entry-level template),95.29,Meets sample CGPA threshold,sql,Practice SQL queries and database management.
+S012,3,IBM,Data Engineer (entry-level template),95.29,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S015,2,HCLTech,Graduate Engineer Trainee,97.27,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S017,0,Tech Mahindra,Software Developer,95.38,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S018,1,IBM,Data Engineer (entry-level template),98.24,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S020,3,TCS,Assistant System Engineer,98.82,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S026,1,IBM,Data Engineer (entry-level template),94.71,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S026,1,IBM,Data Engineer (entry-level template),94.71,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S028,3,IBM,Data Engineer (entry-level template),97.65,Meets sample CGPA threshold,sql,Practice SQL queries and database management.
+S031,2,Wipro,Project Engineer,98.75,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S034,1,IBM,Data Engineer (entry-level template),97.65,Meets sample CGPA threshold,sql,Practice SQL queries and database management.
+S036,3,Cognizant,Programmer Analyst,97.69,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S039,2,Persistent Systems,Software Engineer,87.5,Meets sample CGPA threshold,python,Practice Python programming and build projects.
+S039,2,Persistent Systems,Software Engineer,87.5,Meets sample CGPA threshold,dsa,Practice Data Structures and Algorithms.
+S039,2,Persistent Systems,Software Engineer,87.5,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S040,3,IBM,Data Engineer (entry-level template),92.94,Meets sample CGPA threshold,sql,Practice SQL queries and database management.
+S040,3,IBM,Data Engineer (entry-level template),92.94,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S041,0,Tech Mahindra,Software Developer,93.85,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S042,1,IBM,Data Engineer (entry-level template),95.88,Meets sample CGPA threshold,sql,Practice SQL queries and database management.
+S042,1,IBM,Data Engineer (entry-level template),95.88,Meets sample CGPA threshold,data_analytics,"Learn Excel, Pandas and data visualization."
+S043,2,Infosys,Systems Engineer,96.25,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S044,1,IBM,Data Engineer (entry-level template),95.88,Meets sample CGPA threshold,python,Practice Python programming and build projects.
+S044,1,IBM,Data Engineer (entry-level template),95.88,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S045,0,Tech Mahindra,Software Developer,93.08,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S046,1,IBM,Data Engineer (entry-level template),98.82,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S047,2,Persistent Systems,Software Engineer,95.62,Meets sample CGPA threshold,java,Learn Java fundamentals and OOP concepts.
+S047,2,Persistent Systems,Software Engineer,95.62,Meets sample CGPA threshold,python,Practice Python programming and build projects.
+S048,3,IBM,Data Engineer (entry-level template),97.65,Meets sample CGPA threshold,sql,Practice SQL queries and database management.
+S049,0,Tech Mahindra,Software Developer,95.38,Meets sample CGPA threshold,react,Build interactive projects using React.
+S049,0,Tech Mahindra,Software Developer,95.38,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S050,1,Accenture,Associate Software Engineer,91.25,Meets sample CGPA threshold,java,Learn Java fundamentals and OOP concepts.
+S050,1,Accenture,Associate Software Engineer,91.25,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S052,3,Accenture,Associate Software Engineer,83.12,Meets sample CGPA threshold,java,Learn Java fundamentals and OOP concepts.
+S052,3,Accenture,Associate Software Engineer,83.12,Meets sample CGPA threshold,sql,Practice SQL queries and database management.
+S052,3,Accenture,Associate Software Engineer,83.12,Meets sample CGPA threshold,dsa,Practice Data Structures and Algorithms.
+S052,3,Accenture,Associate Software Engineer,83.12,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S054,1,Cognizant,Programmer Analyst,97.69,Meets sample CGPA threshold,java,Learn Java fundamentals and OOP concepts.
+S055,2,Wipro,Project Engineer,94.38,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S056,1,Deloitte,Technology Analyst (template),92.5,Meets sample CGPA threshold,data_analytics,"Learn Excel, Pandas and data visualization."
+S057,0,Tech Mahindra,Software Developer,85.38,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S058,1,IBM,Data Engineer (entry-level template),97.06,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S058,1,IBM,Data Engineer (entry-level template),97.06,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S061,0,Tech Mahindra,Software Developer,91.54,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S063,2,Infosys,Systems Engineer,98.12,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S064,3,Persistent Systems,Software Engineer,88.75,Meets sample CGPA threshold,java,Learn Java fundamentals and OOP concepts.
+S065,0,Tech Mahindra,Software Developer,99.23,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S067,2,Wipro,Project Engineer,96.88,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S069,0,Tech Mahindra,Software Developer,93.08,Meets sample CGPA threshold,javascript,Learn JavaScript and DOM manipulation.
+S070,1,IBM,Data Engineer (entry-level template),91.76,Meets sample CGPA threshold,python,Practice Python programming and build projects.
+S070,1,IBM,Data Engineer (entry-level template),91.76,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S071,2,Wipro,Project Engineer,96.88,Meets sample CGPA threshold,dsa,Practice Data Structures and Algorithms.
+S071,2,Wipro,Project Engineer,96.88,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S073,0,HCLTech,Graduate Engineer Trainee,87.27,Meets sample CGPA threshold,java,Learn Java fundamentals and OOP concepts.
+S073,0,HCLTech,Graduate Engineer Trainee,87.27,Meets sample CGPA threshold,python,Practice Python programming and build projects.
+S074,1,Deloitte,Technology Analyst (template),85.0,Meets sample CGPA threshold,python,Practice Python programming and build projects.
+S074,1,Deloitte,Technology Analyst (template),85.0,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S079,2,Wipro,Project Engineer,88.75,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S080,3,IBM,Data Engineer (entry-level template),96.47,Meets sample CGPA threshold,sql,Practice SQL queries and database management.
+S080,3,IBM,Data Engineer (entry-level template),96.47,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S081,0,Tech Mahindra,Software Developer,98.46,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S084,3,Accenture,Associate Software Engineer,98.12,Meets sample CGPA threshold,java,Learn Java fundamentals and OOP concepts.
+S084,3,Accenture,Associate Software Engineer,98.12,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S086,1,IBM,Data Engineer (entry-level template),99.41,Meets sample CGPA threshold,sql,Practice SQL queries and database management.
+S087,2,Capgemini,Analyst / Software Engineer,98.33,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S088,3,IBM,Data Engineer (entry-level template),80.0,Meets sample CGPA threshold,sql,Practice SQL queries and database management.
+S088,3,IBM,Data Engineer (entry-level template),80.0,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S088,3,IBM,Data Engineer (entry-level template),80.0,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S090,1,Deloitte,Technology Analyst (template),98.75,Meets sample CGPA threshold,sql,Practice SQL queries and database management.
+S091,2,Wipro,Project Engineer,90.0,Meets sample CGPA threshold,java,Learn Java fundamentals and OOP concepts.
+S091,2,Wipro,Project Engineer,90.0,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S092,3,Deloitte,Technology Analyst (template),98.12,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S093,0,Tech Mahindra,Software Developer,94.62,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S095,2,Persistent Systems,Software Engineer,95.0,Meets sample CGPA threshold,python,Practice Python programming and build projects.
+S095,2,Persistent Systems,Software Engineer,95.0,Meets sample CGPA threshold,dsa,Practice Data Structures and Algorithms.
+S096,3,Accenture,Associate Software Engineer,97.5,Meets sample CGPA threshold,java,Learn Java fundamentals and OOP concepts.
+S097,0,Tech Mahindra,Software Developer,96.92,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S100,3,HCLTech,Graduate Engineer Trainee,94.55,Meets sample CGPA threshold,dsa,Practice Data Structures and Algorithms.
+S100,3,HCLTech,Graduate Engineer Trainee,94.55,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S101,0,Tech Mahindra,Software Developer,96.92,Meets sample CGPA threshold,react,Build interactive projects using React.
+S102,1,IBM,Data Engineer (entry-level template),93.53,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S108,3,IBM,Data Engineer (entry-level template),94.12,Meets sample CGPA threshold,sql,Practice SQL queries and database management.
+S108,3,IBM,Data Engineer (entry-level template),94.12,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S109,0,HCLTech,Graduate Engineer Trainee,97.27,Meets sample CGPA threshold,python,Practice Python programming and build projects.
+S111,2,Infosys,Systems Engineer,96.25,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S112,3,Accenture,Associate Software Engineer,95.62,Meets sample CGPA threshold,java,Learn Java fundamentals and OOP concepts.
+S112,3,Accenture,Associate Software Engineer,95.62,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S113,0,Tech Mahindra,Software Developer,90.77,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S114,1,Deloitte,Technology Analyst (template),98.12,Meets sample CGPA threshold,python,Practice Python programming and build projects.
+S115,2,Infosys,Systems Engineer,96.88,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S116,3,LTIMindtree,Graduate Engineer Trainee,99.09,Meets sample CGPA threshold,java,Learn Java fundamentals and OOP concepts.
+S117,0,HCLTech,Graduate Engineer Trainee,94.55,Meets sample CGPA threshold,java,Learn Java fundamentals and OOP concepts.
+S117,0,HCLTech,Graduate Engineer Trainee,94.55,Meets sample CGPA threshold,cpp,Practice C++ programming and problem solving.
+S117,0,HCLTech,Graduate Engineer Trainee,94.55,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S118,1,LTIMindtree,Graduate Engineer Trainee,91.82,Meets sample CGPA threshold,java,Learn Java fundamentals and OOP concepts.
+S118,1,LTIMindtree,Graduate Engineer Trainee,91.82,Meets sample CGPA threshold,python,Practice Python programming and build projects.
+S121,0,Tech Mahindra,Software Developer,98.46,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S122,1,IBM,Data Engineer (entry-level template),97.65,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S124,3,IBM,Data Engineer (entry-level template),96.47,Meets sample CGPA threshold,python,Practice Python programming and build projects.
+S124,3,IBM,Data Engineer (entry-level template),96.47,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S126,1,Deloitte,Technology Analyst (template),93.75,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S127,2,HCLTech,Graduate Engineer Trainee,98.18,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S128,3,Accenture,Associate Software Engineer,94.38,Meets sample CGPA threshold,sql,Practice SQL queries and database management.
+S128,3,Accenture,Associate Software Engineer,94.38,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S129,0,HCLTech,Graduate Engineer Trainee,90.0,Meets sample CGPA threshold,java,Learn Java fundamentals and OOP concepts.
+S131,2,Infosys,Systems Engineer,92.5,Meets sample CGPA threshold,java,Learn Java fundamentals and OOP concepts.
+S131,2,Infosys,Systems Engineer,92.5,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S132,3,HCLTech,Graduate Engineer Trainee,98.18,Meets sample CGPA threshold,java,Learn Java fundamentals and OOP concepts.
+S133,0,Tech Mahindra,Software Developer,96.92,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S135,2,Persistent Systems,Software Engineer,96.88,Meets sample CGPA threshold,python,Practice Python programming and build projects.
+S135,2,Persistent Systems,Software Engineer,96.88,Meets sample CGPA threshold,dsa,Practice Data Structures and Algorithms.
+S135,2,Persistent Systems,Software Engineer,96.88,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S138,1,Deloitte,Technology Analyst (template),93.12,Meets sample CGPA threshold,sql,Practice SQL queries and database management.
+S138,1,Deloitte,Technology Analyst (template),93.12,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S139,2,Wipro,Project Engineer,97.5,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S140,3,Deloitte,Technology Analyst (template),99.38,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S142,1,LTIMindtree,Graduate Engineer Trainee,89.09,Meets sample CGPA threshold,java,Learn Java fundamentals and OOP concepts.
+S142,1,LTIMindtree,Graduate Engineer Trainee,89.09,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S143,2,Infosys,Systems Engineer,99.38,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S145,0,Tech Mahindra,Software Developer,98.46,Meets sample CGPA threshold,html_css,Build responsive websites using HTML and CSS.
+S146,1,IBM,Data Engineer (entry-level template),90.0,Meets sample CGPA threshold,sql,Practice SQL queries and database management.
+S146,1,IBM,Data Engineer (entry-level template),90.0,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S146,1,IBM,Data Engineer (entry-level template),90.0,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S147,2,Infosys,Systems Engineer,97.5,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S149,0,Tech Mahindra,Software Developer,97.69,Meets sample CGPA threshold,sql,Practice SQL queries and database management.
+S150,1,Cognizant,Programmer Analyst,84.62,Meets sample CGPA threshold,java,Learn Java fundamentals and OOP concepts.
+S150,1,Cognizant,Programmer Analyst,84.62,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S150,1,Cognizant,Programmer Analyst,84.62,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S152,1,IBM,Data Engineer (entry-level template),98.24,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S153,0,Tech Mahindra,Software Developer,94.62,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S156,3,Cognizant,Programmer Analyst,87.69,Meets sample CGPA threshold,java,Learn Java fundamentals and OOP concepts.
+S156,3,Cognizant,Programmer Analyst,87.69,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S158,3,Persistent Systems,Software Engineer,96.88,Meets sample CGPA threshold,dsa,Practice Data Structures and Algorithms.
+S159,2,Persistent Systems,Software Engineer,97.5,Meets sample CGPA threshold,python,Practice Python programming and build projects.
+S159,2,Persistent Systems,Software Engineer,97.5,Meets sample CGPA threshold,sql,Practice SQL queries and database management.
+S166,1,Deloitte,Technology Analyst (template),98.12,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S167,2,TCS,Assistant System Engineer,95.88,Meets sample CGPA threshold,dsa,Practice Data Structures and Algorithms.
+S167,2,TCS,Assistant System Engineer,95.88,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S168,1,LTIMindtree,Graduate Engineer Trainee,93.64,Meets sample CGPA threshold,java,Learn Java fundamentals and OOP concepts.
+S169,0,Tech Mahindra,Software Developer,87.69,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S173,0,Tech Mahindra,Software Developer,95.38,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S174,1,Deloitte,Technology Analyst (template),88.75,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S174,1,Deloitte,Technology Analyst (template),88.75,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S176,3,Deloitte,Technology Analyst (template),89.38,Meets sample CGPA threshold,python,Practice Python programming and build projects.
+S176,3,Deloitte,Technology Analyst (template),89.38,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S177,0,Tech Mahindra,Software Developer,97.69,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S178,1,IBM,Data Engineer (entry-level template),96.47,Meets sample CGPA threshold,python,Practice Python programming and build projects.
+S179,2,Infosys,Systems Engineer,87.5,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S180,3,Deloitte,Technology Analyst (template),98.75,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S184,3,HCLTech,Graduate Engineer Trainee,94.55,Meets sample CGPA threshold,java,Learn Java fundamentals and OOP concepts.
+S185,0,Tech Mahindra,Software Developer,95.38,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S186,1,Deloitte,Technology Analyst (template),97.5,Meets sample CGPA threshold,python,Practice Python programming and build projects.
+S186,1,Deloitte,Technology Analyst (template),97.5,Meets sample CGPA threshold,data_analytics,"Learn Excel, Pandas and data visualization."
+S186,1,Deloitte,Technology Analyst (template),97.5,Meets sample CGPA threshold,problem_solving,Solve coding problems regularly.
+S188,3,IBM,Data Engineer (entry-level template),97.65,Meets sample CGPA threshold,sql,Practice SQL queries and database management.
+S192,3,Accenture,Associate Software Engineer,93.75,Meets sample CGPA threshold,java,Learn Java fundamentals and OOP concepts.
+S192,3,Accenture,Associate Software Engineer,93.75,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S194,3,IBM,Data Engineer (entry-level template),89.41,Meets sample CGPA threshold,python,Practice Python programming and build projects.
+S194,3,IBM,Data Engineer (entry-level template),89.41,Meets sample CGPA threshold,sql,Practice SQL queries and database management.
+S194,3,IBM,Data Engineer (entry-level template),89.41,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S196,3,IBM,Data Engineer (entry-level template),96.47,Meets sample CGPA threshold,sql,Practice SQL queries and database management.
+S196,3,IBM,Data Engineer (entry-level template),96.47,Meets sample CGPA threshold,communication,Improve communication and presentation skills.
+S197,0,Tech Mahindra,Software Developer,99.23,Meets sample CGPA threshold,react,Build interactive projects using React.
+S200,3,HCLTech,Graduate Engineer Trainee,99.09,Meets sample CGPA threshold,java,Learn Java fundamentals and OOP concepts.
