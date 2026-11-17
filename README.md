@@ -36,3 +36,5 @@ Beginner-friendly Python + K-Means + Streamlit project.
 
 ## Ethical note
 Use synthetic records for development. Use real student data only with college permission, informed consent where required, and remove direct identifiers.
+# skillmatch-ai
+Student Skill-Based Clustering and Company Mapping using Python, Machine Learning and Streamlit.
